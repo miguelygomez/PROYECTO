@@ -1,0 +1,242 @@
+body {
+    background-color: #f3eafa;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+}
+
+header {
+    background-color: #9673b9;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background-color: #d8c3eb;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #583875;
+    margin: 8px;
+    text-decoration: none;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #80549f;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/* Estilos de las actividades */
+
+.pregunta {
+    background-color: #f8f0fc;
+    padding: 12px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+
+select {
+    padding: 8px;
+    border: 1px solid #9673b9;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #9673b9;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #765397;
+}
+
+#resultado, #resultadoActividad {
+    color: #80549f;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+footer {
+    background-color: #9673b9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+body {
+    background-color: #f3eafa;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+}
+
+header {
+    background-color: #9673b9;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background-color: #d8c3eb;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #583875;
+    margin: 8px;
+    text-decoration: none;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #80549f;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/* Estilos de las actividades */
+
+.pregunta {
+    background-color: #f8f0fc;
+    padding: 12px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+
+select {
+    padding: 8px;
+    border: 1px solid #9673b9;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #9673b9;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #765397;
+}
+
+#resultado, #resultadoActividad {
+    color: #80549f;
+    font-weight: bold;
+    margin-top: 15px;
+body {
+    background-color: #fce4ec;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+}
+
+header {
+    background-color: #d98ca3;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background-color: #f4b6c7;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #702b42;
+    margin: 8px;
+    text-decoration: none;
+}
+
+section {
+    background-color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #a64d69;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.pregunta {
+    background-color: #fff0f5;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+}
